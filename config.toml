@@ -1,0 +1,32 @@
+title = "Layers of Abstraction"
+theme = "solar-theme-hugo"
+paginate = 5
+pygmentsStyle = "solarized-dark" # solarized-light, -dark or -dark256
+copyright = "Clinton Kerrison 2022"
+
+[params]
+  scheme = "preference" # light, dark, gray or preference
+  description = "I had a first principle here somewhere..."
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+  [[menu.other]]
+    name = "@aussieklutz"
+    url = "https://twitter.com/aussieklutz"
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'solarized-dark'
+    tabWidth = 4
