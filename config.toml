@@ -3,6 +3,7 @@ theme = "solar-theme-hugo"
 paginate = 5
 pygmentsStyle = "solarized-dark" # solarized-light, -dark or -dark256
 copyright = "Clinton Kerrison 2022"
+baseURL = "https://layersofabstraction.net"
 
 [params]
   scheme = "preference" # light, dark, gray or preference
