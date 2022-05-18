@@ -35,23 +35,23 @@ This workshop would be targeted at persons with some existing web application te
  
 The content will follow the following topics:
 •	Assessing applications from a zero-knowledge perspective
-o	Black-box thinking – Looking at the application inputs and outputs
+  o	Black-box thinking – Looking at the application inputs and outputs
 •	Thick client attack surface
-o	Network Communications
-o	Filesystem Interaction
-o	OS Interaction (Registry entries, system calls)
+  o	Network Communications
+  o	Filesystem Interaction
+  o	OS Interaction (Registry entries, system calls)
 •	Fundamentals of the DotNET platform
-o	The CIL interpreter
+  o	The CIL interpreter
 •	Setting up an environment to intercept and interact with a DotNET client
-o	Network interception
-o	System, network, and registry calls
-o	Attaching a DotNET debugger
+  o	Network interception
+  o	System, network, and registry calls
+  o	Attaching a DotNET debugger
 •	Runtime manipulation through a debugger
-o	Setting breakpoints
-o	Manipulating memory to affect application execution
+  o	Setting breakpoints
+  o	Manipulating memory to affect application execution
 •	Using instrumentation to call application functionality
-o	Injecting attack code into an application
-o	Invoking sensitive functionality directly
+  o	Injecting attack code into an application
+  o	Invoking sensitive functionality directly
 •	Tales from the field – Describing real world thick client vulnerabilities
  
 The overall intent of the training will be to give web application penetration testers an initial exposure to thick client penetration testing, and practical experience with tools for performing DotNET assessments. 
