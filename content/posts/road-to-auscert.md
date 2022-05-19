@@ -1,7 +1,7 @@
 ---
 title: "CFP's and Preparation"
 date: 2022-05-07T13:34:43+10:00
-draft: true
+draft: false
 ---
 
 Presenting at conventions is something I have been incredibly fortunate to do from very early in my Cyber Security career. I need to go back and find the specific snippets, but Bruce Potter, Dan Kaminsky, and others I have watched over the years have stated the importance of new people presenting and that the best experience of these cons is from presenting. I also had the benefit of a very supportive team at Alcorn Group supporting my first submission to CrikeyCon 2018.
@@ -98,18 +98,11 @@ I exploded... and rushed out to tell Chrissie (my lovely wife) the good news...
 
 ## So whats the big deal about AusCert
 
-For a bit of context, I had not attended AusCert at this point, but had floated around the periphery for several years. I first went down in 
+For a bit of context, I had not attended AusCert at this point, but had floated around the periphery for several years. I first went down in 2016 to attend a Hak5 Meetup when Darren was down to present at AusCert. From that meetup I met Dook, one part of the driving force for SecTalks Brisbane and started the chain of networking that led to meeting Wade and starting my InfoSec career.
 
 ![Playing "The Contender" card game with the Hak5 meetup, GC 2016](/img/posts/auscert2022/Contender.jfif)
-(https://twitter.com/hak5darren/status/736585218023264256/photo/1)
+Source: [@hak5darren](https://twitter.com/hak5darren/status/736585218023264256/photo/1)
 
-## So you got accepted to present... now what?
-
-![Clinton is presenting at AusCert 2022 poster image, provided by the AusCert](/img/posts/auscert2022/Speaker.png)
-
-## Running down the clock
-
-Without exception, substantial nerves kick in for the last few days before the session. I think I have acquired a taste however for the pure endorphine rush when the event is over and there is nothing left to do but still having the nervous energy of the preceeding half a week boiling over.
-
+The story of developing the workshop and preparing for the event will need to wait till another day. The main takeaways I want to put out there is that doing a CFP isn't hard, and that it is 100% worth having a go. I did my first CFP to CrikeyCon within months of starting at Alcorn Group. I want to see more of our fresh faces up on stage learning their craft from both the learning and the teaching angle.
 
 ([^1]: HD am I in the middle, CrikeyCon 2018) [https://www.youtube.com/watch?v=5meK6Ty0oSc]
