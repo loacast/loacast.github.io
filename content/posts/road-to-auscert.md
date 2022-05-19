@@ -100,6 +100,9 @@ I exploded... and rushed out to tell Chrissie (my lovely wife) the good news...
 
 For a bit of context, I had not attended AusCert at this point, but had floated around the periphery for several years. I first went down in 
 
+![Playing "The Contender" card game with the Hak5 meetup, GC 2016](/img/posts/auscert2022/Contender.jfif)
+(https://twitter.com/hak5darren/status/736585218023264256/photo/1)
+
 ## So you got accepted to present... now what?
 
 ![Clinton is presenting at AusCert 2022 poster image, provided by the AusCert](/img/posts/auscert2022/Speaker.png)
