@@ -1,6 +1,6 @@
 ---
 title: "Road to AusCert"
-date: 2022-05-19T18:00:00+10:00
+date: 2022-05-18T18:00:00+10:00
 draft: false
 ---
 
