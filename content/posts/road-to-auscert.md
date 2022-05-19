@@ -8,7 +8,7 @@ Presenting at conventions is something I have been incredibly fortunate to do fr
 
 ## Call for Papers
 
-I have submitted CFP's to a few conventions at this point, and I have succeeded at a couple (though one fell through nearer to event date). Without having joined a review board for CFP submissions, I still think I have seen a pattern in the talks which were accepted. Each successful CFP has been on an area where I had substantial passion and drive. CrikeyCon 2018 my session was about a Raspberry Pi based network KVM that I had been working on for nearly two years [^1]. In this latest case, with AusCert 2022, I am running a .NET Thick App Pentesting workshop which mixes a substantial area of growth in my personal experience with a obsession with learning new things and teaching others. 
+I have submitted CFP's to a few conventions at this point, and I have succeeded at a couple (though one fell through nearer to event date). Without having joined a review board for CFP submissions, I still think I have seen a pattern in the talks which were accepted. Each successful CFP has been on an area where I had substantial passion and drive. CrikeyCon 2018 my session was about a Raspberry Pi based network KVM that I had been working on for nearly two years ((HD am I in the middle, CrikeyCon 2018)[https://www.youtube.com/watch?v=5meK6Ty0oSc]). In this latest case, with AusCert 2022, I am running a .NET Thick App Pentesting workshop which mixes a substantial area of growth in my personal experience with a obsession with learning new things and teaching others. 
 
 The CFP submissions opened in December 2021 and had two deadlines, the 10th of January to get feedback from the committee, and a final dealine of the 30th of January. I sumbitted around the 4th of January.
 
@@ -105,4 +105,4 @@ Source: [@hak5darren](https://twitter.com/hak5darren/status/736585218023264256/p
 
 The story of developing the workshop and preparing for the event will need to wait till another day. The main takeaways I want to put out there is that doing a CFP isn't hard, and that it is 100% worth having a go. I did my first CFP to CrikeyCon within months of starting at Alcorn Group. I want to see more of our fresh faces up on stage learning their craft from both the learning and the teaching angle.
 
-([^1]: HD am I in the middle, CrikeyCon 2018) [https://www.youtube.com/watch?v=5meK6Ty0oSc]
+
