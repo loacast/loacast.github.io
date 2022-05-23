@@ -16,6 +16,63 @@ I actually submitted two CFP's for AusCert 2022, one a presentation breaking dow
 
 I am trying to re-acquire my initial CFP submissions to include here, and will update if I get them.
 
+### Update: Original CFP
+
+I received an email back from AusCert with my initial submissions. I find it quite interesting looking back on this after the fact. There is a lot of rushed and not very well described ideas here, and I think my submission was little more than my initial scribbling of an outline and thoughts for the presentation, especially the first. I was a lot more concrete on the second, which is probably a big lesson to learn... Anyway here they are:
+
+#### Bringing the streetlamp to native client assessments
+
+~~~
+Native client assessments have proven to be a continual source of architectural weaknesses which would be considered grave beyond measure in a web application but somehow they lie dormant in a variety of native client-server enterprise systems.
+
+Contrast the ready ability of layperson computer enthusiasts to identify security issues in Web Applications. Use for a recent example the discovery of social security numbers on the Missouri state teachers website, by using the "view-source" feature to see content provided by the website, but not rendered in a viewable manner by the web browser.
+
+Why big bugs hide in native client applications
+
+Discuss several aspects of native client application architecture that provide a false sense of security to developers, and which also hinder external assessment
+ - The assumption of control
+ - Greater complexity
+
+An overview of common issues found in native client applications
+- Misplaced business logic
+- Custom network protocols
+
+What can the infosec industry do:
+Make a call to action to the pentesting industry for the further development of tools and methodologies to address the discussed difficulties and to improve offerings for clients
+
+For the enterprises: 
+A further call to action to engage in third party architecture assessments during development, and to require such as a procurement requirement.  Encourage SSDLC training and incorporating the OWASP Proactive Security Controls. For existing projects, encourage pentesting and code reviews to provide enterprises a better understanding of the security ramifications to support decision making around enterprise software systems.
+~~~
+
+#### Penetration Testing of .NET client applications
+
+~~~
+Participants will be provided a custom developed .NET client application with many of the faults described below. The purpose of the workshop will be to demonstrate using introspection tools such as DNSpy to inspect the internal operation of a .NET application and to exploit these common vulnerabilities. 
+
+This will be of value to persons engaged in the information security / penetration testing specialty who wish to extend their capabilities for testing native client applications. It will also be of value for persons who wish to understand better the risks posed by these architectural weaknesses in native client applications.
+
+Areas of focus:
+- Blackbox Client Assessments
+-- Network Communications
+-- Filesystem Interaction
+-- OS Interaction
+- The .NET platform
+-- Common Intermediate Language
+-- Interpreted execution
+- Exploration of .NET Applications
+-- DNSpy
+-- Setting Breakpoints
+-- Interacting with calls and memory
+- Instrumentation of .NET Applications
+-- Finding a Landing Ground
+-- Intercepting execution
+-- Invoking Interesting Functionality
+- How Native Clients Break
+-- Demonstration of Vulnerabilities
+~~~
+
+## Feedback
+
 On the 19th, I got asked for some additional data for my workshop session:
 
 ```
