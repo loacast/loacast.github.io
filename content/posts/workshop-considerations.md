@@ -14,10 +14,8 @@ As the day progressed, between the major waypoints I had set up, I did get a bit
 
 There were a few final takeaways for the future:
 
-I hadn't tested my cloud environment out to a sufficient size of class, and ran into some allocation limits. Fortunately I was able to spin up a final instance in another region manually. I will need to revisit my cloud environment for future sessions.
-
-I had missed the notification that I would be able to get a list of my participants ahead of time, and I didn't obtain the schedule for the various breaks through the day, which left us a bit reactive.
-
-Planning a backup network solution for the participants isn't a bad idea, incase a network switch blows up in the future.
+- I hadn't tested my cloud environment out to a sufficient size of class, and ran into some allocation limits. Fortunately I was able to spin up a final instance in another region manually. I will need to revisit my cloud environment for future sessions.
+- I had missed the notification that I would be able to get a list of my participants ahead of time, and I didn't obtain the schedule for the various breaks through the day, which left us a bit reactive.
+- Planning a backup network solution for the participants isn't a bad idea, incase a network switch blows up in the future.
 
 As a very final note, my [prior post on submitting to the Call for Papers](https://layersofabstraction.net/posts/road-to-auscert/) has been updated with the original submissions.
