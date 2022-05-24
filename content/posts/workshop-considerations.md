@@ -14,6 +14,7 @@ As the day progressed, between the major waypoints I had set up, I did get a bit
 
 There were a few final takeaways for the future:
 
+- Especially with hands-on, practical workshops, don't be afraid to let the room fall silent. This likely means that the participants are getting involved in working on the exercise and experiencing the sort of time-vacuum state that I get into when coding.
 - I hadn't tested my cloud environment out to a sufficient size of class, and ran into some allocation limits. Fortunately I was able to spin up a final instance in another region manually. I will need to revisit my cloud environment for future sessions.
 - I had missed the notification that I would be able to get a list of my participants ahead of time, and I didn't obtain the schedule for the various breaks through the day, which left us a bit reactive.
 - Planning a backup network solution for the participants isn't a bad idea, incase a network switch blows up in the future.
