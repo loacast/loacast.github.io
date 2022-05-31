@@ -162,4 +162,6 @@ Source: [@hak5darren](https://twitter.com/hak5darren/status/736585218023264256/p
 
 The story of developing the workshop and preparing for the event will need to wait till another day. The main takeaways I want to put out there is that doing a CFP isn't hard, and that it is 100% worth having a go. I did my first CFP to CrikeyCon within months of starting at Alcorn Group. I want to see more of our fresh faces up on stage learning their craft from both the learning and the teaching angle.
 
+## Further updates and other CFP resources
 
+[Advice on CFP submissions from BsidesMelbourne on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6936941613956874242/)
