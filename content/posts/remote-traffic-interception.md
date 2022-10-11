@@ -8,7 +8,7 @@ draft: false
 
 Thick application security testing, from the perspective of a consultancy, usually involves a customer who has obtained an off the shelf solution from a vendor or who has engaged an external developer to produce the internal tooling. It is substantially less common for the customer to have developed the application-under-test inhouse. The impact of this is usually the customer does not have the institutional understanding or documentation about the inner workings of the application and primarily manage the infrastructure which supports the application.
 
-Another aspect affecting how testing is performed, is in the initial scoping stage, in which the engagement is framed around some variety of breach scenario. Most of the time, this is framed around a single workstation takeover, where an end-user with low rights access to the application succomes to a phishing or similar attack which provides and adversary access to the application at their access level, with elevated privileges on the workstation.
+Another aspect affecting how testing is performed, is in the initial scoping stage, in which the engagement is framed around some variety of breach scenario. Most of the time, this is framed around a single workstation takeover, where an end-user with low rights access to the application succumbs to a phishing or similar attack which provides and adversary access to the application at their access level, with elevated privileges on the workstation.
 
 ## "As Deployed" Thick Application Testing
 
